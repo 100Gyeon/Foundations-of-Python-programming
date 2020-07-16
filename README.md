@@ -1,1 +1,1 @@
-  # Intelligent-Sytem
+# Intelligent-System
